@@ -4,4 +4,3 @@ ii The staging area
 iii- The commit area
 
 Now let's learn about remote repos
-New experiment underway
