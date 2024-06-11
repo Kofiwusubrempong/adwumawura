@@ -1,0 +1,6 @@
+There are three main working areas in Git Local repo
+i- The working area
+ii The staging area
+iii- The commit area
+
+Now let's learn about remote repos
